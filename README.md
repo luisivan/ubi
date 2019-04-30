@@ -1,15 +1,8 @@
 # Aragon UBI app
 
-> 🕵️ [Find more boilerplates using GitHub](https://github.com/search?q=topic:aragon-boilerplate) |
-> ✨ [Official boilerplates](https://github.com/search?q=topic:aragon-boilerplate+org:aragon)
-
 - Allows token holders to add new members by minting tokens
 - All token holders can withdraw up to a total allowance, no questions asked
 - Token holders can change the maximum withdrawal amount via a voting
-
-## Make the template work with your app
-
-- Edit the roles defined in the template to configure your DAO as you want!
 
 ## Run the template
 
